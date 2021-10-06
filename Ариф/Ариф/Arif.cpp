@@ -22,6 +22,8 @@ int main()
 	d = a % 100;
 	e = d / 10;
 	cout << c << endl;
+	cout << e << endl;
+	cout << b << endl;
 	arif = (double)(b + c + e) / 3.;
 	cout << "Среднее арифметическое трёхзначного числа равно =" << arif;
 	return 0;
